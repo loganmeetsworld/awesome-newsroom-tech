@@ -15,6 +15,7 @@ You can contribute to the repository by also [opening a pull request](https://he
 * github: newsroom_github
 
 ### Project Foo
+
 [![Generic badge](https://img.shields.io/badge/status-<STATUS>-<COLOR>.svg)](link_to_project)
 
 Description of project Foo.
