@@ -11,8 +11,8 @@ You can contribute to the repository by also [opening a pull request](https://he
 ```markdown
 ## Newsroom Name
 
-* location: x
-* github: newsroom_github
+* website: newsroom_example.com
+* source_code: newsroom_github
 
 ### Project Foo
 

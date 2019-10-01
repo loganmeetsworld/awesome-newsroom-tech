@@ -7,9 +7,10 @@ assignees: loganmeetsworld
 
 ---
 
-github: 
+source_code_location:
+website:
 
-projects: 
+projects:
 
 example project
 link to example project
