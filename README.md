@@ -9,18 +9,18 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 * location: international
 * github: [bbc](https://github.com/bbc)
 
-### [BBC News Labs](https://bbcnewslabs.co.uk/) [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://shields.io/)
+### BBC News Labs [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://bbcnewslabs.co.uk/)
 
 ## BuzzFeed News
 
 * location: international
-* github: [buzzfeednews](http://github.com/BuzzFeedNews)
+* github: [buzzfeednews](https://github.com/BuzzFeedNews)
 
-### Data Journalism [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://shields.io/)
+### Data Journalism [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/buzzfeednews)
 
 BuzzFeed News has an investigations team that uses data to report. The team is comprised of journalists who are also data scientists and software engineers. They also consult on data-driven stories. BuzzFeed News keeps a [list of all projects where they've used tech in reporting](https://github.com/buzzfeednews/everything).
 
-### Tech News Working Group [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://shields.io/)
+### Tech News Working Group [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.buzzfeed.com/badge/technewsworkinggroup)
 
 BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/tech-and-news-working-group-7dabaaa38e45), a group of SREs, SWEs, data scientists and product managers that support day-to-day consulting on stories and work on larger ongoing projects. They maintain a running [list of stories consulted on](https://www.buzzfeed.com/badge/technewsworkinggroup).
 
@@ -42,11 +42,11 @@ BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/t
 * location: international
 * github: [nytimes](https://github.com/nytimes)
 
-### Interactive Team [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://shields.io/)
+### Interactive Team [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/newsdev)
 
-### Provenance Project [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://shields.io/)
+### Provenance Project [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.nytco.com/press/nyt-news-provenance-project/)
 
-### R & D [![Generic badge](hhttps://img.shields.io/badge/status-unknown-yellow.svg)](https://shields.io/)
+### R & D [![Generic badge](https://img.shields.io/badge/status-pending-yellow.svg)](https://nytlabs.com/)
 
 ## The Washington Post
 
