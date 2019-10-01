@@ -6,7 +6,7 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 
 ## BBC
 
-* website: bbc.co.uk
+* website: [bbc.co.uk](https://bbc.co.uk)
 * location: international
 * github: [bbc](https://github.com/bbc)
 
@@ -14,11 +14,11 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://bbcnewslabs.co.uk/)
 
-news Labs is the BBC's innovation team. They work on large-scale projects and prototypes with an emphasis on hypothesis-driven investigations. A look-back on work accomplished in 2018 can be found [here](https://www.bbc.co.uk/rd/blog/2018-12-online-news-journalism-review).
+News Labs is the BBC's innovation team. They work on large-scale projects and prototypes with an emphasis on hypothesis-driven investigations. A look-back on work accomplished in 2018 can be found [here](https://www.bbc.co.uk/rd/blog/2018-12-online-news-journalism-review).
 
 ## BuzzFeed News
 
-* website: buzzfeednews.com
+* website: [buzzfeednews.com](https://buzzfeednews.com)
 * location: international
 * github: [buzzfeednews](https://github.com/BuzzFeedNews)
 
@@ -36,7 +36,7 @@ BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/t
 
 ## City Lab (The Atlantic)
 
-* website: citylab.com
+* website: [citylab.com](https://citylab.com)
 * location: international
 * github: [theatlantic/citylab-data](https://github.com/theatlantic/citylab-data)
 
@@ -48,7 +48,7 @@ City Lab uses data visualization to tell the story of urban spaces and transit.
 
 ## LA Times
 
-* website: https://www.latimes.com
+* website: [latimes.com](https://www.latimes.com)
 * location: international
 * github: [datadesk](https://github.com/datadesk)
 
@@ -66,7 +66,7 @@ LA Times keeps open source datasets at spreadsheets.latimes.com. For example, th
 
 ## Propublica
 
-* website: propublica.org
+* website: [propublica.org](https://propublica.org)
 * location: international
 * github: [probulica](https://github.com/propublica)
 
@@ -78,7 +78,7 @@ Propublica hosts a collection of wide-ranging applications, graphics, tools, and
 
 ## The Markup
 
-* website: themarkup.org
+* website: [themarkup.org](https://themarkup.org)
 * location: NYC
 
 ### Data Reporting
@@ -89,10 +89,10 @@ The Markup is a much anticipated new news venture where work is scientific and d
 
 ## The New York Times
 
-* website: nytimes.com
+* website: [nytimes.com](https://nytimes.com)
 * location: international
-* githubs: [nytimes](https://github.com/nytimes), [newsdev](https://github.com/newsdev), [theupshot](https://github.com/TheUpshot), [nytlabs](https://github.com/nytlabs)
-* blog: open.nytimes.com
+* github(s): [nytimes](https://github.com/nytimes), [newsdev](https://github.com/newsdev), [theupshot](https://github.com/TheUpshot), [nytlabs](https://github.com/nytlabs)
+* blog: [open.nytimes.com](https://open.nytimes.com)
 
 ### Interactive Team
 
@@ -112,10 +112,10 @@ The Markup is a much anticipated new news venture where work is scientific and d
 
 ## The Seattle Times
 
-* website: seattletimes.com
+* website: seattletimes.com](https://seattletimes.com)
 * location: Seattle, WA, USA
 * github: [seattletimes](https://github.com/seattletimes)
-* blog: dev.seattletimes.com
+* blog: [dev.seattletimes.com](https://dev.seattletimes.com)
 
 ### Data-Driven Reporting
 
@@ -125,7 +125,7 @@ The Seattle Times uses graphics and data to drive reporting on an array of issue
 
 ## The Washington Post
 
-* website: washingtonpost.com
+* website: [washingtonpost.com](https://washingtonpost.com)
 * location: international
 * github: [washingtonpost](https://github.com/washingtonpost)
 
@@ -135,5 +135,18 @@ The Seattle Times uses graphics and data to drive reporting on an array of issue
 
 ## Quartz
 
+* website: [qz.com](https://qz.com/)
+* location: international
+* github: [quartz](https://github.com/Quartz)
+
+## Quartz AI Studio
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://qz.ai)
+
+From their site: "The Quartz AI Studio is an effort by Quartz to help journalists use machine learning in their reporting. This work is funded by a grant from Knight Foundation."
+
 ## Vox Media
 
+* website: voxmedia.com
+* location: international
+* github: [voxmedia](https://github.com/voxmedia)
