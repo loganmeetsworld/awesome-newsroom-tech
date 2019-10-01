@@ -7,7 +7,6 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 ## BBC
 
 * website: [bbc.co.uk](https://bbc.co.uk)
-* location: international
 * github: [bbc](https://github.com/bbc)
 
 ### BBC News Labs
@@ -19,7 +18,6 @@ News Labs is the BBC's innovation team. They work on large-scale projects and pr
 ## BuzzFeed News
 
 * website: [buzzfeednews.com](https://buzzfeednews.com)
-* location: international
 * github: [buzzfeednews](https://github.com/BuzzFeedNews)
 
 ### Data Journalism
@@ -34,10 +32,20 @@ BuzzFeed News has an investigations team that uses data to report. The team is c
 
 BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/tech-and-news-working-group-7dabaaa38e45), a group of SREs, SWEs, data scientists and product managers that support day-to-day consulting on stories and work on larger ongoing projects. They maintain a running [list of stories consulted on](https://www.buzzfeed.com/badge/technewsworkinggroup).
 
+## FiveThirtyEight
+
+* website: [fivethirtyeight.com](https://fivethirtyeight.com/)
+* github: [fivethirtyeight](https://github.com/fivethirtyeight)
+
+### Data
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://data.fivethirtyeight.com/)
+
+FiveThirtyEight keeps a running record of code for graphics and analysis on their site. On occasion, they will also share complete datasets.
+
 ## LA Times
 
 * website: [latimes.com](https://www.latimes.com)
-* location: international
 * github: [datadesk](https://github.com/datadesk)
 
 ### Graphics
@@ -55,7 +63,6 @@ LA Times keeps open source datasets at spreadsheets.latimes.com. For example, th
 ## Propublica
 
 * website: [propublica.org](https://propublica.org)
-* location: international
 * github: [probulica](https://github.com/propublica)
 
 ### News Apps
@@ -67,7 +74,6 @@ Propublica hosts a collection of wide-ranging applications, graphics, tools, and
 ## The Atlantic
 
 * website: [theatlantic.com](https://theatlantic.com)
-* location: international
 * github: [theatlantic](https://github.com/theatlantic)
 
 ### City Lab
@@ -79,7 +85,6 @@ City Lab uses data visualization to tell the story of urban spaces and transit. 
 ## The Markup
 
 * website: [themarkup.org](https://themarkup.org)
-* location: NYC
 
 ### Data Reporting
 
@@ -90,7 +95,6 @@ The Markup is a much anticipated new news venture where work is scientific and d
 ## The New York Times
 
 * website: [nytimes.com](https://nytimes.com)
-* location: international
 * github(s): [nytimes](https://github.com/nytimes), [newsdev](https://github.com/newsdev), [theupshot](https://github.com/TheUpshot), [nytlabs](https://github.com/nytlabs)
 * blog: [open.nytimes.com](https://open.nytimes.com)
 
@@ -121,7 +125,6 @@ TK: description needed
 ## The Seattle Times
 
 * website: [seattletimes.com](https://seattletimes.com)
-* location: Seattle, WA, USA
 * github: [seattletimes](https://github.com/seattletimes)
 * blog: [dev.seattletimes.com](https://dev.seattletimes.com)
 
@@ -134,7 +137,6 @@ The Seattle Times uses graphics and data to drive reporting on an array of issue
 ## The Washington Post
 
 * website: [washingtonpost.com](https://washingtonpost.com)
-* location: international
 * github: [washingtonpost](https://github.com/washingtonpost)
 
 ### 2020 Election Team
@@ -144,7 +146,6 @@ This is a [Jeremy Bowers](https://github.com/jeremyjbowers)-lead team at TWP ded
 ## Quartz
 
 * website: [qz.com](https://qz.com/)
-* location: international
 * github: [quartz](https://github.com/Quartz)
 
 ### Quartz AI Studio
