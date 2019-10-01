@@ -1,4 +1,4 @@
-# Awesome Newsroom Tech
+# 📰 Awesome Newsroom Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List of newsrooms around the world that are using software engineering, data science, big data, osint, blockchain, and more to elevate reporting. If you want to contribute a newsroom, please open a pull request with the name of the newsroom, the country or location if applicable, and projects (ongoing, past) that are using tech in the newsroom.
 
