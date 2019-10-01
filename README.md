@@ -34,18 +34,6 @@ BuzzFeed News has an investigations team that uses data to report. The team is c
 
 BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/tech-and-news-working-group-7dabaaa38e45), a group of SREs, SWEs, data scientists and product managers that support day-to-day consulting on stories and work on larger ongoing projects. They maintain a running [list of stories consulted on](https://www.buzzfeed.com/badge/technewsworkinggroup).
 
-## City Lab (The Atlantic)
-
-* website: [citylab.com](https://citylab.com)
-* location: international
-* github: [theatlantic/citylab-data](https://github.com/theatlantic/citylab-data)
-
-### Transit Data-Driven Reporting
-
-[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://citylab.com)
-
-City Lab uses data visualization to tell the story of urban spaces and transit.
-
 ## LA Times
 
 * website: [latimes.com](https://www.latimes.com)
@@ -76,6 +64,18 @@ LA Times keeps open source datasets at spreadsheets.latimes.com. For example, th
 
 Propublica hosts a collection of wide-ranging applications, graphics, tools, and databases on News Apps.
 
+## The Atlantic
+
+* website: [theatlantic.com](https://theatlantic.com)
+* location: international
+* github: [theatlantic](https://github.com/theatlantic)
+
+### City Lab
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://citylab.com)
+
+City Lab uses data visualization to tell the story of urban spaces and transit. Code can be found at [theatlantic/citylab-data](https://github.com/theatlantic/citylab-data).
+
 ## The Markup
 
 * website: [themarkup.org](https://themarkup.org)
@@ -98,21 +98,29 @@ The Markup is a much anticipated new news venture where work is scientific and d
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/newsdev)
 
+The Times Interactive Team is a digital projects team embedded within The NYT newsroom. The work on services that aid reporting, wrangle data for stories, and work on graphics and ways to present data.
+
 ### Provenance Project
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.nytco.com/press/nyt-news-provenance-project/)
+
+The News Provenance Project is "a research initiative that will examine how new technologies can potentially inform industry-wide solutions." Namely, they are looking to use blockchain technology to record and share metadata about media.
 
 ### The Upshot
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/TheUpshot)
 
+A data-driven team focussing on wide-ranging statistical analysis.
+
 ### R & D
 
 [![Generic badge](https://img.shields.io/badge/status-unkown-grey.svg)](https://nytlabs.com/)
 
+TK: description needed
+
 ## The Seattle Times
 
-* website: seattletimes.com](https://seattletimes.com)
+* website: [seattletimes.com](https://seattletimes.com)
 * location: Seattle, WA, USA
 * github: [seattletimes](https://github.com/seattletimes)
 * blog: [dev.seattletimes.com](https://dev.seattletimes.com)
@@ -131,7 +139,7 @@ The Seattle Times uses graphics and data to drive reporting on an array of issue
 
 ### 2020 Election Team
 
-[Jeremy Bowers](https://github.com/jeremyjbowers) has a small team at TWP dedicated to tech for the [2020 election](https://www.washingtonpost.com/pr/2019/03/19/washington-post-adds-jeremy-bowers-bolstering-coverage-with-dedicated-engineering-team/). It is a computational R&D lab dedicated to building tools to aid journalism ahead of the election.
+This is a [Jeremy Bowers](https://github.com/jeremyjbowers)-lead team at TWP dedicated to tech for the [2020 election](https://www.washingtonpost.com/pr/2019/03/19/washington-post-adds-jeremy-bowers-bolstering-coverage-with-dedicated-engineering-team/). It is a computational R & D lab tasked with building tools to aid journalism ahead of the election.
 
 ## Quartz
 
@@ -139,14 +147,8 @@ The Seattle Times uses graphics and data to drive reporting on an array of issue
 * location: international
 * github: [quartz](https://github.com/Quartz)
 
-## Quartz AI Studio
+### Quartz AI Studio
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://qz.ai)
 
 From their site: "The Quartz AI Studio is an effort by Quartz to help journalists use machine learning in their reporting. This work is funded by a grant from Knight Foundation."
-
-## Vox Media
-
-* website: voxmedia.com
-* location: international
-* github: [voxmedia](https://github.com/voxmedia)
