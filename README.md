@@ -71,6 +71,28 @@ LA Times keeps open source datasets at spreadsheets.latimes.com. For example, th
 
 Propublica hosts a collection of wide-ranging applications, graphics, tools, and databases on News Apps.
 
+## Spotlight PA
+
+* website: [spotlightpa.org](https://www.spotlightpa.org/)
+* github: [spotlightpa](https://github.com/spotlightpa)
+
+### Digital-First Journalism
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.spotlightpa.org/about/faq/)
+
+From their website: "Digital-first journalism means we make all of our editorial decisions based on the best way to reach modern-day readers online and in the forms and formats they like most for consuming news. While some of our stories will take the traditional, narrative form, we’ll seek to innovate using data and visual tools to create new, interesting and engaging storytelling forms. And we won’t be afraid to experiment."
+
+## Texas Tribune
+
+* website: [texastribune.org](https://www.texastribune.org/)
+* github: [texastribune](https://github.com/texastribune)
+
+### News Apps, Graphics, & Databases
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.texastribune.org/series/news-apps-graphics-databases/)
+
+From their site: "The Tribune is an authoritative source for providing user-friendly databases of public information. Our reporters and software engineers collaborate to present a full picture for readers, giving them the tools to be more thoughtful, productive and engaged citizens. We also use data to help tell other compelling stories about politics and policy in Texas."
+
 ## The Atlantic
 
 * website: [theatlantic.com](https://theatlantic.com)
@@ -153,3 +175,14 @@ This is a [Jeremy Bowers](https://github.com/jeremyjbowers)-lead team at TWP ded
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://qz.ai)
 
 From their site: "The Quartz AI Studio is an effort by Quartz to help journalists use machine learning in their reporting. This work is funded by a grant from Knight Foundation."
+
+## Vox Media
+
+* website: [voxmedia.com](https://voxmedia.com)
+* github: [voxmedia](https://github.com/voxmedia)
+
+### Digital Storytelling
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://storytelling.voxmedia.com/)
+
+A product that helps build "packages" of similar stories, each with its own editor and front-facing tools.
