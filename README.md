@@ -4,7 +4,7 @@ This is a curated list of awesome newsrooms around the world that are using soft
 
 _Note_: This list is intended to be alphabetical by newsroom name so please add in alphabetical order.
 
-## BBC
+## BBC News
 
 * website: [bbc.co.uk](https://bbc.co.uk)
 * github: [bbc](https://github.com/bbc)
@@ -14,6 +14,15 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://bbcnewslabs.co.uk/)
 
 News Labs is the BBC's innovation team. They work on large-scale projects and prototypes with an emphasis on hypothesis-driven investigations. A look-back on work accomplished in 2018 can be found [here](https://www.bbc.co.uk/rd/blog/2018-12-online-news-journalism-review).
+
+## Bloomberg News
+
+* website: [bloomberg.com](https://www.bloomberg.com/)
+* github: [bloomberg](https://github.com/bloomberg)
+
+### Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.bloomberg.com/graphics)
 
 ## BuzzFeed News
 
@@ -43,27 +52,21 @@ BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/t
 
 FiveThirtyEight keeps a running record of code for graphics and analysis on their site. On occasion, they will also share complete datasets.
 
-## LA Times
+## NPR
 
-* website: [latimes.com](https://www.latimes.com)
-* github: [datadesk](https://github.com/datadesk)
+* website: [npr.org](https://www.npr.org/)
+* github(s): [npr](https://github.com/npr), [nprapps](https://github.com/nprapps)
+* blog: [blog.apps.npr.org/blog](https://blog.apps.npr.org/blog/)
 
-### Graphics
+### Visuals
 
-[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://graphics.latimes.com)
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://blog.apps.npr.org/)
 
-LA Times data desk produces "analysis, applications and automation from a team of reporters and computer programmers in the Los Angeles Times newsroom", including all of their interactive graphics for articles.
-
-### Spreadsheets
-
-[![Generic badge](https://img.shields.io/badge/status-unknown-grey.svg)](https://spreadsheets.latimes.com)
-
-LA Times keeps open source datasets at spreadsheets.latimes.com. For example, they have a spreadsheet tracking decades of allegations against the boyscouts [here](https://spreadsheets.latimes.com/boyscouts-cases/).
-
-## Propublica
+## ProPublica
 
 * website: [propublica.org](https://propublica.org)
 * github: [probulica](https://github.com/propublica)
+* blog: [propublica.org/nerds](https://www.propublica.org/nerds/)
 
 ### News Apps
 
@@ -82,17 +85,6 @@ Propublica hosts a collection of wide-ranging applications, graphics, tools, and
 
 From their website: "Digital-first journalism means we make all of our editorial decisions based on the best way to reach modern-day readers online and in the forms and formats they like most for consuming news. While some of our stories will take the traditional, narrative form, we’ll seek to innovate using data and visual tools to create new, interesting and engaging storytelling forms. And we won’t be afraid to experiment."
 
-## Texas Tribune
-
-* website: [texastribune.org](https://www.texastribune.org/)
-* github: [texastribune](https://github.com/texastribune)
-
-### News Apps, Graphics, & Databases
-
-[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.texastribune.org/series/news-apps-graphics-databases/)
-
-From their site: "The Tribune is an authoritative source for providing user-friendly databases of public information. Our reporters and software engineers collaborate to present a full picture for readers, giving them the tools to be more thoughtful, productive and engaged citizens. We also use data to help tell other compelling stories about politics and policy in Texas."
-
 ## The Atlantic
 
 * website: [theatlantic.com](https://theatlantic.com)
@@ -103,6 +95,41 @@ From their site: "The Tribune is an authoritative source for providing user-frie
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://citylab.com)
 
 City Lab uses data visualization to tell the story of urban spaces and transit. Code can be found at [theatlantic/citylab-data](https://github.com/theatlantic/citylab-data).
+
+## The Boston Globe
+
+* website: [bostonglobe.com](https://www.bostonglobe.com/)
+* github: [BostonGlobe](https://github.com/BostonGlobe)
+
+### News Apps & Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](http://apps.bostonglobe.com/)
+
+## The Chicago Tribune
+
+* website: [chicagotribune.com](https://www.chicagotribune.com/)
+* github: [newsapps](https://github.com/newsapps)
+
+### News Apps
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.chicagotribune.com/data/)
+
+## The Los Angeles Times
+
+* website: [latimes.com](https://www.latimes.com)
+* github: [datadesk](https://github.com/datadesk)
+
+### Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://graphics.latimes.com)
+
+LA Times data desk produces "analysis, applications and automation from a team of reporters and computer programmers in the Los Angeles Times newsroom", including all of their interactive graphics for articles.
+
+### Spreadsheets
+
+[![Generic badge](https://img.shields.io/badge/status-unknown-grey.svg)](https://spreadsheets.latimes.com)
+
+LA Times keeps open source datasets at spreadsheets.latimes.com. For example, they have a spreadsheet tracking decades of allegations against the boyscouts [here](https://spreadsheets.latimes.com/boyscouts-cases/).
 
 ## The Markup
 
@@ -120,11 +147,15 @@ The Markup is a much anticipated new news venture where work is scientific and d
 * github(s): [nytimes](https://github.com/nytimes), [newsdev](https://github.com/newsdev), [theupshot](https://github.com/TheUpshot), [nytlabs](https://github.com/nytlabs)
 * blog: [open.nytimes.com](https://open.nytimes.com)
 
-### Interactive Team
+### Interactive News
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/newsdev)
 
-The Times Interactive Team is a digital projects team embedded within The NYT newsroom. The work on services that aid reporting, wrangle data for stories, and work on graphics and ways to present data.
+The Times Interactive News team is a digital projects team embedded within the NYT newsroom. The work on services that aid reporting, wrangle data for stories, and work on graphics and ways to present data.
+
+### Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://twitter.com/nytgraphics)
 
 ### Provenance Project
 
@@ -144,6 +175,15 @@ A data-driven team focussing on wide-ranging statistical analysis.
 
 TK: description needed
 
+## The San Francisco Chronicle
+
+* website: [sfchronicle.com](https://www.sfchronicle.com/)
+* github: [sfchronicle](https://github.com/sfchronicle)
+
+### Interactives
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/sfchronicle)
+
 ## The Seattle Times
 
 * website: [seattletimes.com](https://seattletimes.com)
@@ -156,14 +196,43 @@ TK: description needed
 
 The Seattle Times uses graphics and data to drive reporting on an array of issues.
 
+### Interactives & News Apps
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](http://projects.seattletimes.com/)
+
+## The Texas Tribune
+
+* website: [texastribune.org](https://www.texastribune.org/)
+* github: [texastribune](https://github.com/texastribune)
+
+### News Apps, Graphics, & Databases
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.texastribune.org/series/news-apps-graphics-databases/)
+
+From their site: "The Tribune is an authoritative source for providing user-friendly databases of public information. Our reporters and software engineers collaborate to present a full picture for readers, giving them the tools to be more thoughtful, productive and engaged citizens. We also use data to help tell other compelling stories about politics and policy in Texas."
+
+## The Wall Street Journal
+
+* website: [wsj.com](https://www.wsj.com/)
+* github: [wsj](https://github.com/wsj)
+
+### Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://graphics.wsj.com/)
+
 ## The Washington Post
 
 * website: [washingtonpost.com](https://washingtonpost.com)
 * github: [washingtonpost](https://github.com/washingtonpost)
+* blog: [postgraphics.tumblr.com](https://postgraphics.tumblr.com/)
 
 ### 2020 Election Team
 
 This is a [Jeremy Bowers](https://github.com/jeremyjbowers)-lead team at TWP dedicated to tech for the [2020 election](https://www.washingtonpost.com/pr/2019/03/19/washington-post-adds-jeremy-bowers-bolstering-coverage-with-dedicated-engineering-team/). It is a computational R & D lab tasked with building tools to aid journalism ahead of the election.
+
+### Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://postgraphics.tumblr.com/)
 
 ## Quartz
 
@@ -176,6 +245,12 @@ This is a [Jeremy Bowers](https://github.com/jeremyjbowers)-lead team at TWP ded
 
 From their site: "The Quartz AI Studio is an effort by Quartz to help journalists use machine learning in their reporting. This work is funded by a grant from Knight Foundation."
 
+### Quartz Bot Studio
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://bots.qz.com/)
+
+From their site: "The Quartz Bot Studio builds narrative experiences for messaging and voice platforms."
+
 ## Vox Media
 
 * website: [voxmedia.com](https://voxmedia.com)
@@ -186,3 +261,13 @@ From their site: "The Quartz AI Studio is an effort by Quartz to help journalist
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://storytelling.voxmedia.com/)
 
 A product that helps build "packages" of similar stories, each with its own editor and front-facing tools.
+
+## WNYC
+
+* website: [wnyc.org](https://www.wnyc.org/)
+* github: [wnyc](https://github.com/wnyc)
+
+### Data News Team
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.wnyc.org/people/data-news-team/)
+
