@@ -185,6 +185,17 @@ A data-driven team focussing on wide-ranging statistical analysis.
 
 TK: description needed
 
+## The Pudding
+
+* website: [pudding.cool](https://pudding.cool/)
+* github: [the-pudding](https://github.com/the-pudding/)
+
+### Interactive Storytelling
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/the-pudding/data)
+
+The Pudding produced an innovative piece in 2019 on [Millenials killing everything](https://pudding.cool/2019/09/millennials/) ([code](https://github.com/the-pudding/millennial_killers)) using an interactive design to tell the story. They also provide a ["how" section](https://pudding.cool/topics/#how) on articles.
+
 ## The San Francisco Chronicle
 
 * website: [sfchronicle.com](https://www.sfchronicle.com/)
