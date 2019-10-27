@@ -15,6 +15,16 @@ _Note_: This list is intended to be alphabetical by newsroom name so please add 
 
 News Labs is the BBC's innovation team. They work on large-scale projects and prototypes with an emphasis on hypothesis-driven investigations. A look-back on work accomplished in 2018 can be found [here](https://www.bbc.co.uk/rd/blog/2018-12-online-news-journalism-review).
 
+## Bellingcat
+
+* website: [bellingcat.com](https://www.bloomberg.com/)
+
+### OSINT Reporting
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
+
+Bellingcat is a team of independent researchers that use open source intelligence to investigate subjects around the world. They use creative approaches to using data they find publicly available to break stories, often programmatically.
+
 ## Bloomberg News
 
 * website: [bloomberg.com](https://www.bloomberg.com/)
