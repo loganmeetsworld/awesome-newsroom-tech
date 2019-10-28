@@ -27,8 +27,8 @@ Bellingcat is a team of independent researchers that use open source intelligenc
 
 ## Bloomberg News
 
-* website: [bloomberg.com](https://www.bloomberg.com/)
-* github: [bloomberg](https://github.com/bloomberg)
+* websites: [bloomberg.com](https://www.bloomberg.com/), [bloomberg.com/graphics](https://www.bloomberg.com/graphics)
+* githubs: [bloomberg](https://github.com/bloomberg), [bizweekgraphics](https://github.com/bizweekgraphics)
 
 ### Graphics
 
