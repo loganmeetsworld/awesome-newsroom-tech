@@ -185,6 +185,17 @@ A data-driven team focussing on wide-ranging statistical analysis.
 
 TK: description needed
 
+## The Oregonian
+
+* website: [oregonlive.com](https://www.oregonlive.com/)
+* github: [TheOregonian](https://github.com/TheOregonian)
+
+### Data Journalism
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://github.com/TheOregonian/)
+
+The Oregonian provides [data and code](https://github.com/TheOregonian/data_stories) along with [guidelines](https://github.com/TheOregonian/data) for how they do data journalism.
+
 ## The Pudding
 
 * website: [pudding.cool](https://pudding.cool/)
