@@ -17,7 +17,7 @@ News Labs is the BBC's innovation team. They work on large-scale projects and pr
 
 ## Bellingcat
 
-* website: [bellingcat.com](https://www.bloomberg.com/)
+* website: [bellingcat.com](https://www.bellingcat.com/)
 
 ### OSINT Reporting
 
