@@ -53,14 +53,14 @@ BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/t
 
 ## CBC News
 
-* websites: http://cbc.ca/
-* githubs: https://github.com/CBCNews, https://github.com/cbcrc
+* websites: [cbc.ca](http://cbc.ca/)
+* githubs: [CBCNews](https://github.com/CBCNews), [cbrc](https://github.com/cbcrc)
 
 The Canadian Broadcasting Corporation is the national public broadcaster for both radio and television in Canada.
 
 ### Canada Votes
 
-https://votecompass.cbc.ca/canada/
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://votecompass.cbc.ca/canada/)
 
 For the past decade, CBC has hosted a Vote Compass service to help Canadians understand and choose government representatives by gathering and sharing and realtime polling and voting data.
 
