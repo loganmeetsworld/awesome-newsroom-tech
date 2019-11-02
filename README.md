@@ -51,6 +51,19 @@ BuzzFeed News has an investigations team that uses data to report. The team is c
 
 BuzzFeed News also has the [Tech News Working Group](https://tech.buzzfeed.com/tech-and-news-working-group-7dabaaa38e45), a group of SREs, SWEs, data scientists and product managers that support day-to-day consulting on stories and work on larger ongoing projects. They maintain a running [list of stories consulted on](https://www.buzzfeed.com/badge/technewsworkinggroup).
 
+## CBC News
+
+* websites: http://cbc.ca/
+* githubs: https://github.com/CBCNews, https://github.com/cbcrc
+
+The Canadian Broadcasting Corporation is the national public broadcaster for both radio and television in Canada.
+
+### Canada Votes
+
+https://votecompass.cbc.ca/canada/
+
+For the past decade, CBC has hosted a Vote Compass service to help Canadians understand and choose government representatives by gathering and sharing and realtime polling and voting data.
+
 ## FiveThirtyEight
 
 * website: [fivethirtyeight.com](https://fivethirtyeight.com/)
