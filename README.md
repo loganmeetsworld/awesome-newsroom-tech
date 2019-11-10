@@ -64,6 +64,17 @@ The Canadian Broadcasting Corporation is the national public broadcaster for bot
 
 For the past decade, CBC has hosted a Vote Compass service to help Canadians understand and choose government representatives by gathering and sharing and realtime polling and voting data.
 
+## De Correspondent
+
+* website: [decorrespondent.nl](https://decorrespondent.nl/)
+* github: [decorrespondent](https://github.com/decorrespondent/)
+
+### Investigative Projects
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://decorrespondent.nl/)
+
+De Correspondent conducts investigative reporting based on analysis and data using code. Examples are their [YouTube extremism tracking](https://github.com/decorrespondent/youtube_extremism) and [looking at European politics](https://github.com/decorrespondent/politics).
+
 ## FiveThirtyEight
 
 * website: [fivethirtyeight.com](https://fivethirtyeight.com/)
