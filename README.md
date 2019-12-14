@@ -86,6 +86,17 @@ De Correspondent conducts investigative reporting based on analysis and data usi
 
 FiveThirtyEight keeps a running record of code for graphics and analysis on their site. On occasion, they will also share complete datasets.
 
+## Gizmodo
+
+* website: [gizmodo.com](https://gizmodo.com/)
+* github: [gawkermedia](https://github.com/gawkermedia)
+
+### Investigations & Special Projects Desk
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://specialprojectsdesk.com/)
+
+Gizmodo uses data and technology to power some stories that investigations and special projects produces. In December 2019 they wrote [a story](https://gizmodo.com/ring-s-hidden-data-let-us-map-amazons-sprawling-home-su-1840312279) that potentially located tens of thousands of ring cameras using a proxy and data analysis on the Neighbors app.
+
 ## NPR
 
 * website: [npr.org](https://www.npr.org/)
