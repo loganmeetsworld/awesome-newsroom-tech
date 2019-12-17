@@ -4,6 +4,17 @@ This is a curated list of awesome newsrooms around the world that are using soft
 
 _Note_: This list is intended to be alphabetical by newsroom name so please add in alphabetical order.
 
+## Atlanta Journal Constitution
+
+* website: [ajc.com](https://www.ajc.com/)
+* github: [NewsappAJC](https://github.com/NewsappAJC)
+
+### Newsapp Team
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.ajc.com/)
+
+The AJC Newsapp Team works on data-driven and immersive reporting projects. An example of their work is [analysis](https://www.ajc.com/news/state--regional-govt--politics/precinct-closures-harm-voter-turnout-georgia-ajc-analysis-finds/11sVcLyQCHuQRC8qtZ6lYP/) about how precinct closures are harming voter turnout in Georgia.
+
 ## BBC News
 
 * website: [bbc.co.uk](https://bbc.co.uk)
