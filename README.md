@@ -201,6 +201,7 @@ LA Times keeps open source datasets at spreadsheets.latimes.com. For example, th
 ## The Markup
 
 * website: [themarkup.org](https://themarkup.org)
+* github: [the-markup](https://github.com/the-markup)
 
 ### Data Reporting
 
