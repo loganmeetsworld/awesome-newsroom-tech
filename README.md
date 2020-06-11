@@ -86,6 +86,11 @@ For the past decade, CBC has hosted a Vote Compass service to help Canadians und
 
 De Correspondent conducts investigative reporting based on analysis and data using code. Examples are their [YouTube extremism tracking](https://github.com/decorrespondent/youtube_extremism) and [looking at European politics](https://github.com/decorrespondent/politics).
 
+## The Economist
+
+* website: [economist.com](https://www.economist.com/)
+* github: [TheEconomist](https://github.com/TheEconomist)
+
 ## FiveThirtyEight
 
 * website: [fivethirtyeight.com](https://fivethirtyeight.com/)
