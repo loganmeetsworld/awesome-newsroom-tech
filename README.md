@@ -124,6 +124,18 @@ They produce open-source projects like `mtriage`, which is a command-line applic
 
 Gizmodo uses data and technology to power some stories that investigations and special projects produces. In December 2019 they wrote [a story](https://gizmodo.com/ring-s-hidden-data-let-us-map-amazons-sprawling-home-su-1840312279) that potentially located tens of thousands of ring cameras using a proxy and data analysis on the Neighbors app.
 
+## NBC News
+
+* website: [nbcnews.com/datagraphics](https://www.nbcnews.com/datagraphics)
+* github(s): [NBCNews](https://github.com/NBCNews?q=datateam&type=&language=)
+* twitter: [NBCNewsGraphics](https://twitter.com/nbcnewsgraphics)
+
+### Data / Graphics
+
+[![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.nbcnews.com/datagraphics)
+
+The NBC News Data / Graphics team is a part of NBC News' digital newsroom and reports, codes, designs, analyzes datasets, illustrates and designs in service of publishing graphics, interactives and stories on NBCNews.com.
+
 ## NPR
 
 * website: [npr.org](https://www.npr.org/)
