@@ -167,7 +167,7 @@ Propublica hosts a collection of wide-ranging applications, graphics, tools, and
 
 [![Generic badge](https://img.shields.io/badge/status-active-green.svg)](https://www.spotlightpa.org/about/faq/)
 
-From their website: "Digital-first journalism means we make all of our editorial decisions based on the best way to reach modern-day readers online and in the forms and formats they like most for consuming news. While some of our stories will take the traditional, narrative form, we’ll seek to innovate using data and visual tools to create new, interesting and engaging storytelling forms. And we won’t be afraid to experiment."
+From their website: "Digital-first journalism means we make all of our editorial decisions based on the best way to reach modern-day readers online and in the forms and formats they like most for consuming news. While some of our stories will take the traditional, narrative form, we’ll seek to innovate using data and visual tools to create new, interesting and engaging storytelling forms. And we won’t be afraid to experiments".
 
 ## The Atlantic
 
